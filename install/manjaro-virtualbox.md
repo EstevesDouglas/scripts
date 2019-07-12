@@ -1,0 +1,5 @@
+
+
+´´´modprobe vboxdrv´´´
+
+´´´sudo vboxreaload´´´
