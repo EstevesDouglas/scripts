@@ -1,5 +1,5 @@
+# Install Virtualbox and configure vboxdrv.
 
+'''modprobe vboxdrv'''
 
-´´´modprobe vboxdrv´´´
-
-´´´sudo vboxreaload´´´
+'''sudo vboxreaload'''
