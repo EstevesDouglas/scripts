@@ -9,7 +9,7 @@ name=Repositorio Unicamp
 baseurl=http://ftp.unicamp.br/pub/centos/8/BaseOS/x86_64/os/
 enabled=1
 gpgcheck=1
-gpgkey=http://ftp.unicamp.br/pub/centos/8/BaseOS/x86_64/os//x86_64/RPM-GPG-KEY-CentOS-8
+gpgkey=https://www.centos.org/keys/RPM-GPG-KEY-CentOS-Official
 EOT
 
 # Limpa cache atual do repositorio
