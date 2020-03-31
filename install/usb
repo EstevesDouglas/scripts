@@ -1,0 +1,6 @@
+```
+  221  sudo usermod -a -G uucp username
+  229  sudo usermod -a -G tty username
+
+
+```
