@@ -1,0 +1,2 @@
+sudo apt install g++-12 gcc-12
+sudo apt install --reinstall linux-headers-$(uname -r) build-essential dkms
